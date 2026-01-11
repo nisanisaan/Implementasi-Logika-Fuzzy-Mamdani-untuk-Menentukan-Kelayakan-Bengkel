@@ -1,5 +1,16 @@
 # Implementasi-Logika-Fuzzy-Mamdani-untuk-Menentukan-Kelayakan-Bengkel
-Sistem rekomendasi bengkel berbasis Fuzzy Logic yang mempertimbangkan kualitas servis sebagai faktor utama dan harga sebagai faktor penyeimbang untuk menentukan bengkel terbaik secara bertahap dan realistis.
+Topik: Sistem Fuzzy Mamdani Pemilihan Bengkel Terbaik
+
+Isi File:
+- tubes_kecerdasan_buatan.py    : Program utama
+- data_bengkel.csv : Dataset bengkel
+- hasil.txt        : Output 5 bengkel terbaik
+- Poster_A3.pdf    : Poster A3
+
+Cara Menjalankan:
+1. Jalankan file TUBES_AI.py
+2. Program akan membaca data_bengkel.csv
+3. Hasil disimpan di hasil.txt
 
 Nama Anggota Kelompok:
 1. Nisa (103132400044)
