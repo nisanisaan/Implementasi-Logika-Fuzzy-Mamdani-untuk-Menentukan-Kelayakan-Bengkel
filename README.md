@@ -18,4 +18,5 @@ Nama Anggota Kelompok:
 
 Pembagian tugas: 
 Nisa: Perancangan dan implementasi teknis sistem fuzzy Mamdani
+
 Gendis: Dokumentasi, analisis hasil, dan penyusunan poster A3
