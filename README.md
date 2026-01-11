@@ -15,3 +15,7 @@ Cara Menjalankan:
 Nama Anggota Kelompok:
 1. Nisa (103132400044)
 2. Gendis Pambayun (103132400031)
+
+Pembagian tugas: 
+Nisa: Perancangan dan implementasi teknis sistem fuzzy Mamdani
+Gendis: Dokumentasi, analisis hasil, dan penyusunan poster A3
