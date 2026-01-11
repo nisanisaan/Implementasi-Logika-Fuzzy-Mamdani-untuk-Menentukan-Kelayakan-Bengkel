@@ -1,0 +1,5 @@
+B01 | kualitas: 45.0 | harga: 330000.0 | skor: 30.00
+B10 | kualitas: 59.0 | harga: 400000.0 | skor: 30.00
+B12 | kualitas: 53.0 | harga: 230000.0 | skor: 30.00
+B17 | kualitas: 59.0 | harga: 350000.0 | skor: 30.00
+B19 | kualitas: 53.0 | harga: 360000.0 | skor: 30.00
