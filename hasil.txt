@@ -1,0 +1,5 @@
+B35 | kualitas: 94.0 | harga: 3.9 | skor: 90.00
+B04 | kualitas: 94.0 | harga: 4.5 | skor: 90.00
+B09 | kualitas: 85.0 | harga: 2.5 | skor: 90.00
+B15 | kualitas: 93.0 | harga: 2.2 | skor: 90.00
+B16 | kualitas: 92.0 | harga: 4.7 | skor: 90.00
