@@ -8,7 +8,7 @@ Isi File:
 - Poster_A3.pdf    : Poster A3
 
 Cara Menjalankan:
-1. Jalankan file TUBES_AI.py
+1. Jalankan file tubes_kecerdasan_buatan.py
 2. Program akan membaca data_bengkel.csv
 3. Hasil disimpan di hasil.txt
 
